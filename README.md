@@ -28,6 +28,12 @@ Proyecto formativo ADSO, en desarrollo, equipo de 5 personas. Plataforma web par
 
 Repositorio del equipo: https://github.com/CarlosMedina19/Proyecto-Ascensores
 
+### Prácticas académicas
+
+- [CRUD de portafolio](https://github.com/juanmur444-lang/portafolio-crud) (Django): proyectos, categorías y mensajes de contacto
+- [CRUD de categorías y productos](https://github.com/juanmur444-lang/crud-categorias-productos) (Django)
+- [Sistema de inicio de sesión](https://github.com/juanmur444-lang/login_php) (PHP)
+
 ## Contacto
 
 - Correo: juanmur444@gmail.com
