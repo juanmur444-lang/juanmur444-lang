@@ -1,16 +1,37 @@
-## Hi there 👋
+Juan Andrés Mur Bermúdez
 
-<!--
-**juanmur444-lang/juanmur444-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de Software en Formación · Aprendiz SENA (ADSO) Payandé, Tolima · Disponibilidad presencial en Ibagué
 
-Here are some ideas to get you started:
+Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy aprendiz del Tecnólogo en Análisis y Desarrollo de Software del SENA (Centro de Industria y Construcción, Ibagué) y estoy finalizando la etapa lectiva.
+
+Formo parte del equipo de cinco personas que desarrolla SIGMA, una plataforma web para la gestión y el mantenimiento de ascensores. Dentro del equipo apoyo todos los módulos, pruebo su funcionamiento y corrijo los errores que aparecen.
+
+Busco realizar mi etapa productiva desde enero de 2027, mediante contrato de aprendizaje SENA, en una empresa de Ibagué.
+
+Tecnologías
+
+Aplicadas en proyectos: PHP · Laravel · PostgreSQL · JavaScript · React · Python · HTML · CSS · APIs REST · Git · GitHub
+
+Conocimientos básicos: Django · MySQL · Docker · Java
+
+Herramientas: VS Code · Postman · XAMPP
+
+Proyectos
+SIGMA: Sistema Integral de Gestión y Mantenimiento de Ascensores
+
+Proyecto formativo ADSO, en desarrollo, equipo de 5 personas. Plataforma web para administrar clientes, edificios y mantenimientos de ascensores. Backend con Laravel y PostgreSQL, interfaz con React y API REST.
+
+Mi aporte en la plataforma web: roles y permisos, emergencias por código QR, cotizaciones, importación y exportación a Excel, pruebas automatizadas y despliegue con Docker, junto con el líder del proyecto.
+
+Repositorio del equipo: https://github.com/CarlosMedina19/Proyecto-Ascensores
+
+Prácticas académicas
+CRUD de cartera (Python): [enlace al repositorio]
+CRUD de categorías y productos (Python): [enlace al repositorio]
+Sistema de inicio de sesión (PHP): [enlace al repositorio]
+Contacto
+Correo: juanmur444@gmail.com
+Teléfono: +57 315 529 2203
+LinkedIn: [agregar cuando lo crees]
